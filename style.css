@@ -1,0 +1,96 @@
+body{
+    font-family: 'Poppins', sans-serif
+}
+.header-area{
+	background-image: url(image/header-bg.png);
+	background-repeat: no-repeat;
+	padding: 50px 0px;
+}
+.hed-text{
+	width: 40%;
+	float: left;
+	margin: 20px 40px;
+}
+.hed-text h1{}
+.hed-text span{
+	color: #d63031;
+	font-size: 20px;
+	font-weight: 800;
+}
+.hed-text p{}
+.hed-img{}
+.hed-img img{
+	width: 27%;
+	padding: 0 20px;
+}
+.link-button{
+	text-decoration: none;
+	background-color: orange;
+	border: 1px solid #d63031;
+	padding: 6px 10px;
+	border-radius: 5px;
+	color: #fff;
+}
+.mid-area{
+	padding: 10% 0;
+	background-image: url(image/biography-bg.png);
+	background-repeat: no-repeat;
+	margin-top: 20px ;
+}
+.mid-img img{
+	width: 30%;
+	float: left;
+	padding: 0px 80px;
+}
+.mid-text{
+	width:70%;
+	padding: 0px 10px;
+	padding: 20px 0px;
+}
+.mid-text p{
+	font-size: 15px;
+}
+.footer-head{
+	padding: 70px 0;
+	background-image: url(image/latest-work-bg.png);
+	background-repeat: no-repeat;
+	
+}
+.foot-text{
+	text-align: center;
+	padding: 20px 0px;
+}
+.foot-img{}
+.foot-img img{
+	width: 30%;
+	height: 100%;
+	margin: 0 1%;
+}
+.foot-mid{
+	text-align: center;
+	padding: 60px 0px;
+}
+.foot-mid h2{
+	font-size: 30px;
+	font-weight: 500;
+}
+.foot-mid-text{
+
+}
+.foot-mid-text h3{}
+.foot-mid-text p{
+	font-size: 20px;
+	margin-left: 30%;
+	width: 40%;
+	padding: 30px 0px;
+}
+.footer-foot{
+	width: 40%;
+	background-color: #d63031;
+	margin:0 auto;
+	padding: 30px 30px;
+}
+.footer-foot p{
+	font-size: 35px;
+	font-weight: 500;
+}
